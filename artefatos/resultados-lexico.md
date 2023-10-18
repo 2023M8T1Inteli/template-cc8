@@ -1,3 +1,3 @@
-# Resultados: Lexico
+# Resultados: Léxico
 
-*Escreva aqui o conteúdo deste artefato.*
+*Artefato referente às Sprints 1 e 2*
