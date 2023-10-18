@@ -1,3 +1,3 @@
-# Entendimento da experiência do usuário
+# Entendimento da Experiência do Usuário
 
-*Escreva aqui o conteúdo deste artefato.*
+*Artefato referente à Sprint 1*
