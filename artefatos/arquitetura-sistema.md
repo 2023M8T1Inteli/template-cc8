@@ -1,3 +1,3 @@
 # Arquitetura do Sistema
 
-*Escreva aqui o conteúdo deste artefato.*
+*Artefato referente à Sprint 1*
