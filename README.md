@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-<a href= "https://vtal.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Vtal_logo_2022.png" alt="V.tal" border="0" width="60%"></a>
+<a href= "https://aacd.org.br/"><img src="https://aacd.org.br/wp-content/uploads/2019/10/logo-footer.jpg" alt="aacd.org.br" border="0" width="60%"></a>
 </td>
 <td><a href= "https://www.inteli.edu.br/"><img src="./inteli-logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="50%"></a>
 </td>
@@ -10,11 +10,11 @@
 
 # Introdução
 
-Este é um dos repositórios do projeto de alunos do Inteli em parceria com a V.tal no 2º semestre de 2023. Este projeto está sendo desenvolvido por alunos do Módulo 6 do curso de Ciência da Computação.
+Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AACD no 2º semestre de 2023. Este projeto está sendo desenvolvido por alunos do Módulo 8 do curso de Ciência da Computação.
 
 > Se você é um dos alunos que faz parte deste grupo, veja as [instruções para os alunos](./instrucoes_para_alunos/LEIAME_aluno.md).
 
-# Projeto: *Algoritmo de otimização para alocação e distribuição de equipes de técnicos*
+# Projeto: *Nome do projeto*
 
 # Grupo: *Nome_do_seu_Grupo*
 
@@ -26,6 +26,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a V.
 * Estudante 4
 * Estudante 5
 * Estudante 6
+* Estudante 7
 
 # Descrição
 
