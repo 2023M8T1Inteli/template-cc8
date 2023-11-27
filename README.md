@@ -15,12 +15,16 @@
 </tr>
 </table>
 
+(b) O texto abaixo com as instruções iniciais para os alunos deve ser removido.
+
+> Se você é um dos alunos que faz parte deste grupo, veja as [instruções para os alunos](./instrucoes_para_alunos/LEIAME_aluno.md).
+
 
 # Introdução
 
 Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AACD no 2º semestre de 2023. Este projeto está sendo desenvolvido por alunos do Módulo 8 do curso de Ciência da Computação.
 
-> Se você é um dos alunos que faz parte deste grupo, veja as [instruções para os alunos](./instrucoes_para_alunos/LEIAME_aluno.md).
+
 
 # Projeto: *Nome do projeto*
 
