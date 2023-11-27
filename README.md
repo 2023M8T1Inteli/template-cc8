@@ -25,7 +25,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 
 (c) Os campos projeto, grupo e integrantes estão preenchidos corretamente.
 
-<td><a href= "https://www.inteli.edu.br/"><img src="./projeto.png" alt="Projeto, Descrição e Integrantes" border="0" width="50%"></a>
+<td><a href= "https://www.inteli.edu.br/"><img src=".img/projeto.png" alt="Projeto, Descrição e Integrantes" border="0" width="50%"></a>
 
 (d) O campo descrição contém um resumo do problema e da solução desenvolvida.
 
