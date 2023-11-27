@@ -10,6 +10,9 @@
 
 # Check-list para Entrega do Projeto
 
+** Nome do Projeto: ** Tapete sensorial para apoiar pessoas com leves desordens neurológicas e sem alteração/restrição sensorial em atividades do cotidiano
+
+
 # Introdução
 
 Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AACD no 2º semestre de 2023. Este projeto está sendo desenvolvido por alunos do Módulo 8 do curso de Ciência da Computação.
