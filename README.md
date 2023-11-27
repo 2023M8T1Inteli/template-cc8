@@ -51,6 +51,8 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 
 (a) A raiz do repositório contém apenas as pastas para artefatos e codigo e os arquivos README.md, .gitignore e inteli-logo.png (a pasta instrucoes_para_alunos deve ser removida).
 
+<td><a href= "https://www.inteli.edu.br/"><img src="img/pasta-arquivos.png" alt="Licença" border="0" width="50%"></a>
+
 # 3. Na pasta /artefatos
 
 (a) Há apenas arquivos no formato markdown (.md) e a pasta de imagens (img).
