@@ -14,7 +14,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 <td>
 <a href= "https://aacd.org.br/"><img src="https://aacd.org.br/wp-content/uploads/2019/10/logo-footer.jpg" alt="aacd.org.br" border="0" width="60%"></a>
 </td>
-<td><a href= "https://www.inteli.edu.br/"><img src="./inteli-logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="50%"></a>
+<td><a href= "https://www.inteli.edu.br/"><img src="img/inteli-logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="50%"></a>
 </td>
 </tr>
 </table>
