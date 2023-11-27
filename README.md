@@ -1,3 +1,10 @@
+# Check-list para Entrega do Projeto
+
+**Nome do Projeto:** Tapete sensorial para apoiar pessoas com leves desordens neurológicas e sem alteração/restrição sensorial em atividades do cotidiano
+
+# 1. No arquivo README.md
+ (a) Os logos do parceiro e do Inteli estão no topo da página.
+ 
 <table>
 <tr>
 <td>
@@ -7,10 +14,6 @@
 </td>
 </tr>
 </table>
-
-# Check-list para Entrega do Projeto
-
-**Nome do Projeto:** Tapete sensorial para apoiar pessoas com leves desordens neurológicas e sem alteração/restrição sensorial em atividades do cotidiano
 
 
 # Introdução
