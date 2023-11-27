@@ -37,7 +37,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 
 (i) Apresenta o logo https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-by
 
-(j) Há uma lista das tags, com a enumeração dos artefatos de cada tag.
+(j) Há uma lista das tags de cada sprint, com a enumeração dos artefatos de cada tag.
 
 
 # 2. Organização das pastas e arquivos
