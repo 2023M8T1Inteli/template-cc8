@@ -10,7 +10,7 @@
 
 # Check-list para Entrega do Projeto
 
-** Nome do Projeto: ** Tapete sensorial para apoiar pessoas com leves desordens neurológicas e sem alteração/restrição sensorial em atividades do cotidiano
+**Nome do Projeto:** Tapete sensorial para apoiar pessoas com leves desordens neurológicas e sem alteração/restrição sensorial em atividades do cotidiano
 
 
 # Introdução
