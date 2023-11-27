@@ -8,7 +8,7 @@
 </tr>
 </table>
 
-#Check-list para Entrega do Projeto
+# Check-list para Entrega do Projeto
 
 # Introdução
 
