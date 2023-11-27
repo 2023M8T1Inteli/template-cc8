@@ -40,7 +40,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 
 (i) Apresenta o logo https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-by
 
-<td><a href= "https://www.inteli.edu.br/"><img src="img/licenca.png" alt="Licença" border="0" width="50%"></a>
+<td><a href= "https://www.inteli.edu.br/"><img src="img/licenca.png" alt="Licença" border="0" width="25%"></a>
 
 (j) Há uma lista das tags de cada sprint, com a enumeração dos artefatos de cada tag.
 
