@@ -61,7 +61,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 
 (c) Todas as imagens estão aparecendo corretamente dentro dos arquivos no formato markdown (.md).
 
-# 4. Na pasta /codigo
+# 4. Na pasta /src
 
 (a) Há duas pastas, onde cada uma corresponde a um item de software do projeto: ide e compilador.
 
