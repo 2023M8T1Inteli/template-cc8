@@ -32,7 +32,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 
 <td><a href= "https://www.inteli.edu.br/"><img src="img/configuracao.png" alt="Configuração para Desenvolvimento" border="0" width="50%"></a>
 
-(f) Menciona explicitamente que a licença do projeto é a "Application 4.0 International".
+(f) Menciona explicitamente que a licença do projeto é a "Attribution 4.0 International".
 
 (g) O nome da licença está com link para https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1
 
